@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ocfel\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\transforms\dex\debug\folders\1000\10\javax.inject-1_429fe9f51a9418be5e78664eeda813a81d5ce584\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_ec22653fb523d21ce9cd0c5a7c96b69ea5f043da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_b038bf6575880dc9092544611ca46dbe60bc7bf0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.0_71aaa2c1a0a2fb1e19e7c179926f3deeaefb9a54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_de204579f8ec98caac2ca1e2343a5ab8afe961d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_0160c872215cacaea2153196a41443f0415a997c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_2213a7574f26399b9701a04db8fc37a8aba391be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_a7a3fd01e658ce6634511e9053f54dd9a4615f8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_33202b6cf1e9a9e6a76d922e625bcc6aecff50fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ocfel\Documents\GIT\MobileHub\app\libs\ClientLib.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f29cfae1e506b3e7b99351bde8d0410137209a22">
+        <dex dex="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\transforms\dex\debug\folders\1000\2\ClientLib_8d5d1d6b46c7a83674f4a07df1cee506c2cfe0f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_808f9dd9843b259cb20486111b8887977f83214a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ocfel\.gradle\caches\modules-2\files-2.1\de.greenrobot\eventbus\2.4.0\ddd166d01b3158d1c00576d29f7ed15c030df719\eventbus-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\transforms\dex\debug\folders\1000\10\eventbus-2.4.0_25d16da91ac8611536913095ed0ae27683de8fba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_7b2e0b8f0b996952a8a97d50118a40599ca8ba09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ocfel\Documents\GIT\MobileHub\app\libs\asper-4.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7e76a2010ffdd51b43f0a0ae445a7f632fc28737">
+        <dex dex="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\transforms\dex\debug\folders\1000\2\asper-4.9.0_1e816c9903268a1ee269894f3857fcc81d9155f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ocfel\Documents\GIT\MobileHub\app\libs\ormlite-android-4.48.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\transforms\dex\debug\folders\1000\2\ormlite-android-4.48_c52abd5d63fed09ba88031ddd75e4d449b3294db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ocfel\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.5\571f4e0451db64a7b41dbeb5f2503986fe5acdb4\dagger-2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="571f4e0451db64a7b41dbeb5f2503986fe5acdb4">
+        <dex dex="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\transforms\dex\debug\folders\1000\10\dagger-2.5_c134a0b77f53b1f9d0a93912c5257ddca23dd9b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_41cde7060f77eccd79acdf0c7fdb3dba85e01a2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ocfel\Documents\GIT\MobileHub\app\libs\ormlite-core-4.48.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\transforms\dex\debug\folders\1000\2\ormlite-core-4.48_e19ae96c9dd532667f663dc98efbfd2d5e1d0f16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_aff582f24ef56b2ded9514b2fd4c07eae7adfd13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_63b188a8120ab28edfde8672bb40598cc6faa6ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_8dbaaf041184dd395f2dbbb08668aa37dade467b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_14d09a61567df6fe920192d7531bfb3c46ccd708\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ocfel\Documents\GIT\MobileHub\app\libs\lib.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2167337a50e916fe127d2ffc2a3c24fcb9afe971">
+        <dex dex="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\transforms\dex\debug\folders\1000\2\lib_ae63b014d37158f9fc788d7b0f4ccfb835b2c0b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_faef5b16b9e23b0ba9975697e1ccaa5ca338d204\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.0_8ac1eee5c2f8f9d1d373fefb16e9e985a915da71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ocfel\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_6a56939a07a2a0ffe37ccb21cbb05ac79a3cb450\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ocfel\Documents\GIT\MobileHub\app\libs\acra-4.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="44a5eb946e0d83eed4a0128d877ca1fd8168b83a">
+        <dex dex="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\transforms\dex\debug\folders\1000\2\acra-4.5.0_bd08030212ab6b7f1a02636b1b0cd734016edf52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\ocfel\Documents\GIT\MobileHub\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_67feec4f950c371e5d6a6c24a6e4d93e49664f14\classes.dex" />
+    </item>
+
+</items>
